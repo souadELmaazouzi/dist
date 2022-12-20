@@ -549,7 +549,7 @@ header {
     width: 100%;
     height: calc(100vh - 22px);
     background-size: cover;
-    background: url("/img/White\ Minimalist\ Dental\ Clinic\ Facebook\ Cover.png") fixed bottom;
+    background: url("img/White\ Minimalist\ Dental\ Clinic\ Facebook\ Cover.png") fixed bottom;
     padding: 20px 70px;
 }
 header nav {
@@ -719,7 +719,7 @@ header .arrow-down {
 /*Start Recipes*/
 .recipes .image {
     height: 350px;
-    background: url("/img/Eviter-cambriolage-cabinet-medical.jpg") fixed center;
+    background: url("img/Eviter-cambriolage-cabinet-medical.jpg") fixed center;
     background-size: cover;
 }
 /*End Recipes*/
@@ -794,7 +794,7 @@ header .arrow-down {
 
 /*Start fixed-image*/
 .fixed-image {
-    background: url("/img/portrait-of-doctor.jpg") fixed center;
+    background: url("img/portrait-of-doctor.jpg") fixed center;
     background-size: cover;
     height: 400px;
 }
